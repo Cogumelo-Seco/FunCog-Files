@@ -1,0 +1,234 @@
+{
+    "Arrow-0": {
+      "Arrow-0-splash-0": {
+        "name": "Arrow-0-splash-0",
+        "x": 0,
+        "y": 0,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-1": {
+        "name": "Arrow-0-splash-1",
+        "x": 0,
+        "y": 259,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-2": {
+        "name": "Arrow-0-splash-2",
+        "x": 0,
+        "y": 518,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-3": {
+        "name": "Arrow-0-splash-3",
+        "x": 0,
+        "y": 777,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-4": {
+        "name": "Arrow-0-splash-4",
+        "x": 0,
+        "y": 1036,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-5": {
+        "name": "Arrow-0-splash-5",
+        "x": 0,
+        "y": 1295,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-6": {
+        "name": "Arrow-0-splash-6",
+        "x": 0,
+        "y": 1554,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-0-splash-7": {
+        "name": "Arrow-0-splash-7",
+        "x": 0,
+        "y": 1813,
+        "width": 259,
+        "height": 259
+      }
+    },
+    "Arrow-1": {
+      "Arrow-1-splash-0": {
+        "name": "Arrow-0-splash-0",
+        "x": 259,
+        "y": 0,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-1": {
+        "name": "Arrow-0-splash-1",
+        "x": 259,
+        "y": 259,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-2": {
+        "name": "Arrow-0-splash-2",
+        "x": 259,
+        "y": 518,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-3": {
+        "name": "Arrow-0-splash-3",
+        "x": 259,
+        "y": 777,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-4": {
+        "name": "Arrow-0-splash-4",
+        "x": 259,
+        "y": 1036,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-5": {
+        "name": "Arrow-0-splash-5",
+        "x": 259,
+        "y": 1295,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-6": {
+        "name": "Arrow-0-splash-6",
+        "x": 259,
+        "y": 1554,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-1-splash-7": {
+        "name": "Arrow-0-splash-7",
+        "x": 259,
+        "y": 1813,
+        "width": 259,
+        "height": 259
+      }
+    },
+    "Arrow-2": {
+      "Arrow-2-splash-0": {
+        "name": "Arrow-0-splash-0",
+        "x": 518,
+        "y": 0,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-1": {
+        "name": "Arrow-0-splash-1",
+        "x": 518,
+        "y": 259,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-2": {
+        "name": "Arrow-0-splash-2",
+        "x": 518,
+        "y": 518,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-3": {
+        "name": "Arrow-0-splash-3",
+        "x": 518,
+        "y": 777,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-4": {
+        "name": "Arrow-0-splash-4",
+        "x": 518,
+        "y": 1036,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-5": {
+        "name": "Arrow-0-splash-5",
+        "x": 518,
+        "y": 1295,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-6": {
+        "name": "Arrow-0-splash-6",
+        "x": 518,
+        "y": 1554,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-2-splash-7": {
+        "name": "Arrow-0-splash-7",
+        "x": 518,
+        "y": 1813,
+        "width": 259,
+        "height": 259
+      }
+    },
+    "Arrow-3": {
+      "Arrow-3-splash-0": {
+        "name": "Arrow-0-splash-0",
+        "x": 777,
+        "y": 0,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-1": {
+        "name": "Arrow-0-splash-1",
+        "x": 777,
+        "y": 259,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-2": {
+        "name": "Arrow-0-splash-2",
+        "x": 777,
+        "y": 518,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-3": {
+        "name": "Arrow-0-splash-3",
+        "x": 777,
+        "y": 777,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-4": {
+        "name": "Arrow-0-splash-4",
+        "x": 777,
+        "y": 1036,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-5": {
+        "name": "Arrow-0-splash-5",
+        "x": 777,
+        "y": 1295,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-6": {
+        "name": "Arrow-0-splash-6",
+        "x": 777,
+        "y": 1554,
+        "width": 259,
+        "height": 259
+      },
+      "Arrow-3-splash-7": {
+        "name": "Arrow-0-splash-7",
+        "x": 777,
+        "y": 1813,
+        "width": 259,
+        "height": 259
+      }
+    }
+  }

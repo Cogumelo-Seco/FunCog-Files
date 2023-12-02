@@ -1,0 +1,250 @@
+{
+  "Arrow-1": {
+    "Arrow-1": {
+      "x": "2",
+      "y": "2",
+      "width": "157",
+      "height": "154"
+    },
+    "Arrow-1-hold-end": {
+      "x": "634",
+      "y": "2",
+      "width": "50",
+      "height": "64"
+    },
+    "Arrow-1-hold-piece": {
+      "x": "686",
+      "y": "2",
+      "width": "50",
+      "height": "44"
+    },
+    "Arrow-1-note": {
+      "x": "738",
+      "y": "2",
+      "width": "157",
+      "height": "154"
+    },
+    "Arrow-1-press-0": {
+      "x": "897",
+      "y": "2",
+      "width": "238",
+      "height": "235"
+    },
+    "Arrow-1-press-1": {
+      "x": "1137",
+      "y": "2",
+      "width": "238",
+      "height": "235"
+    },
+    "Arrow-1-press-2": {
+      "x": "1377",
+      "y": "2",
+      "width": "238",
+      "height": "235"
+    },
+    "Arrow-1-press-0-no": {
+      "x": "1617",
+      "y": "2",
+      "width": "149",
+      "height": "146"
+    },
+    "Arrow-1-press-1-no": {
+      "x": "1768",
+      "y": "2",
+      "width": "149",
+      "height": "146"
+    },
+    "Arrow-1-press-2-no": {
+      "x": "1768",
+      "y": "2",
+      "width": "149",
+      "height": "146"
+    }
+  },
+  "Arrow-0": {
+    "Arrow-0": {
+      "x": "161",
+      "y": "2",
+      "width": "155",
+      "height": "156"
+    },
+    "Arrow-0-press-0": {
+      "x": "161",
+      "y": "239",
+      "width": "228",
+      "height": "231"
+    },
+    "Arrow-0-press-1": {
+      "x": "391",
+      "y": "239",
+      "width": "228",
+      "height": "231"
+    },
+    "Arrow-0-press-2": {
+      "x": "621",
+      "y": "239",
+      "width": "228",
+      "height": "231"
+    },
+    "Arrow-0-press-0-no": {
+      "x": "851",
+      "y": "239",
+      "width": "146",
+      "height": "149"
+    },
+    "Arrow-0-press-1-no": {
+      "x": "999",
+      "y": "239",
+      "width": "146",
+      "height": "149"
+    },
+    "Arrow-0-press-2-no": {
+      "x": "999",
+      "y": "239",
+      "width": "146",
+      "height": "149"
+    },
+    "Arrow-0-hold-end": {
+      "x": "1147",
+      "y": "239",
+      "width": "50",
+      "height": "64"
+    },
+    "Arrow-0-hold-piece": {
+      "x": "1199",
+      "y": "239",
+      "width": "50",
+      "height": "44"
+    },
+    "Arrow-0-note": {
+      "x": "1251",
+      "y": "239",
+      "width": "154",
+      "height": "157"
+    }
+  },
+  "Arrow-3": {
+    "Arrow-3": {
+      "x": "318",
+      "y": "2",
+      "width": "155",
+      "height": "156"
+    },
+    "Arrow-3-hold-end": {
+      "x": "1407",
+      "y": "239",
+      "width": "50",
+      "height": "64"
+    },
+    "Arrow-3-hold-piece": {
+      "x": "1459",
+      "y": "239",
+      "width": "50",
+      "height": "44"
+    },
+    "Arrow-3-note": {
+      "x": "1511",
+      "y": "239",
+      "width": "154",
+      "height": "157"
+    },
+    "Arrow-3-press-0": {
+      "x": "1667",
+      "y": "239",
+      "width": "226",
+      "height": "230"
+    },
+    "Arrow-3-press-1": {
+      "x": "2",
+      "y": "472",
+      "width": "226",
+      "height": "230"
+    },
+    "Arrow-3-press-2": {
+      "x": "230",
+      "y": "472",
+      "width": "226",
+      "height": "230"
+    },
+    "Arrow-3-press-0-no": {
+      "x": "458",
+      "y": "472",
+      "width": "148",
+      "height": "151"
+    },
+    "Arrow-3-press-1-no": {
+      "x": "608",
+      "y": "472",
+      "width": "148",
+      "height": "151"
+    },
+    "Arrow-3-press-2-no": {
+      "x": "608",
+      "y": "472",
+      "width": "148",
+      "height": "151"
+    }
+  },
+  "Arrow-2": {
+    "Arrow-2": {
+      "x": "475",
+      "y": "2",
+      "width": "157",
+      "height": "154"
+    },
+    "Arrow-2-hold-end": {
+      "x": "1919",
+      "y": "2",
+      "width": "50",
+      "height": "64"
+    },
+    "Arrow-2-hold-piece": {
+      "x": "1971",
+      "y": "2",
+      "width": "50",
+      "height": "44"
+    },
+    "Arrow-2-note": {
+      "x": "2",
+      "y": "239",
+      "width": "157",
+      "height": "154"
+    },
+    "Arrow-2-press-0": {
+      "x": "758",
+      "y": "472",
+      "width": "236",
+      "height": "232"
+    },
+    "Arrow-2-press-1": {
+      "x": "996",
+      "y": "472",
+      "width": "236",
+      "height": "232"
+    },
+    "Arrow-2-press-2": {
+      "x": "1234",
+      "y": "472",
+      "width": "236",
+      "height": "232"
+    },
+    "Arrow-2-press-0-no": {
+      "x": "1472",
+      "y": "472",
+      "width": "153",
+      "height": "150"
+    },
+    "Arrow-2-press-1-no": {
+      "x": "1627",
+      "y": "472",
+      "width": "153",
+      "height": "150"
+    },
+    "Arrow-2-press-2-no": {
+      "x": "1627",
+      "y": "472",
+      "width": "153",
+      "height": "150"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "Arrow-4": {
+    "Arrow-4": {
+      "name": "spacebar0001",
+      "x": 108,
+      "y": 5,
+      "width": 357,
+      "height": 83
+    },
+    "Arrow-4-note": {
+      "name": "spacebar0001",
+      "x": 108,
+      "y": 5,
+      "width": 357,
+      "height": 83
+    },
+    "Arrow-4-press-0": {
+      "name": "spacebar press0000",
+      "x": 5,
+      "y": 388,
+      "width": 398,
+      "height": 52,
+      "frameX": -56,
+      "frameY": -60,
+      "frameWidth": 497,
+      "frameHeight": 115
+    },
+    "Arrow-4-press-1": {
+      "name": "spacebar press0004",
+      "x": 355,
+      "y": 448,
+      "width": 354,
+      "height": 58,
+      "frameX": -74,
+      "frameY": -54,
+      "frameWidth": 497,
+      "frameHeight": 115
+    },
+    "Arrow-4-press-2": {
+      "name": "spacebar press0007",
+      "x": 355,
+      "y": 448,
+      "width": 354,
+      "height": 58,
+      "frameX": -74,
+      "frameY": -54,
+      "frameWidth": 497,
+      "frameHeight": 115
+    },
+    "Arrow-4-hold-end": {
+      "name": "spacebar hold end0000",
+      "x": 714,
+      "y": 448,
+      "width": 98,
+      "height": 82
+    },
+
+    "Arrow-4-hold-piece": {
+      "name": "spacebar hold piece0000",
+      "x": 5,
+      "y": 5,
+      "width": 98,
+      "height": 45
+    },
+    "Arrow-4-press-0-no": {
+      "name": "spacebar confirm0000",
+      "x": 370,
+      "y": 119,
+      "width": 497,
+      "height": 64,
+      "frameX": 0,
+      "frameY": -51,
+      "frameWidth": 497,
+      "frameHeight": 115
+    },
+    "Arrow-4-press-1-no": {
+      "name": "spacebar confirm0002",
+      "x": 486,
+      "y": 222,
+      "width": 417,
+      "height": 68,
+      "frameX": -41,
+      "frameY": -47,
+      "frameWidth": 497,
+      "frameHeight": 115
+    },
+    "Arrow-4-press-2-no": {
+      "name": "spacebar confirm0004",
+      "x": 401,
+      "y": 295,
+      "width": 353,
+      "height": 88,
+      "frameX": -77,
+      "frameY": -23,
+      "frameWidth": 497,
+      "frameHeight": 115
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "frames": [
+    {
+      "name": "Therm10000",
+      "x": 5,
+      "y": 5,
+      "width": 88,
+      "height": 400
+    },
+    {
+      "name": "Therm20000",
+      "x": 98,
+      "y": 5,
+      "width": 87,
+      "height": 408,
+      "frameX": 0,
+      "frameY": -1,
+      "frameWidth": 87,
+      "frameHeight": 408
+    },
+    {
+      "name": "Therm30000",
+      "x": 190,
+      "y": 5,
+      "width": 88,
+      "height": 439,
+      "frameX": 0,
+      "frameY": 4,
+      "frameWidth": 88,
+      "frameHeight": 439
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "Arrow-1": {
+    "Arrow-1-splash-0": {
+      "x": "2",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-1-splash-1": {
+      "x": "242",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-1-splash-2": {
+      "x": "482",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-1-splash-3": {
+      "x": "722",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-1-splash-4": {
+      "x": "962",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-1-splash-5": {
+      "x": "242",
+      "y": "482",
+      "width": "236",
+      "height": "227"
+    },
+    "Arrow-1-splash-6": {
+      "x": "480",
+      "y": "482",
+      "width": "236",
+      "height": "227"
+    },
+    "Arrow-1-splash-7": {
+      "x": "718",
+      "y": "482",
+      "width": "236",
+      "height": "227"
+    },
+    "Arrow-1-splash-8": {
+      "x": "956",
+      "y": "482",
+      "width": "236",
+      "height": "227"
+    },
+    "Arrow-1-splash-9": {
+      "x": "1194",
+      "y": "482",
+      "width": "236",
+      "height": "227"
+    }
+  },
+  "Arrow-2": {
+    "Arrow-2-splash-0": {
+      "x": "1202",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-2-splash-1": {
+      "x": "1442",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-2-splash-2": {
+      "x": "1682",
+      "y": "2",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-2-splash-3": {
+      "x": "2",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-2-splash-5": {
+      "x": "1432",
+      "y": "482",
+      "width": "234",
+      "height": "235"
+    },
+    "Arrow-2-splash-6": {
+      "x": "1668",
+      "y": "482",
+      "width": "234",
+      "height": "235"
+    },
+    "Arrow-2-splash-7": {
+      "x": "2",
+      "y": "722",
+      "width": "234",
+      "height": "235"
+    },
+    "Arrow-2-splash-8": {
+      "x": "238",
+      "y": "722",
+      "width": "234",
+      "height": "235"
+    },
+    "Arrow-2-splash-9": {
+      "x": "474",
+      "y": "722",
+      "width": "234",
+      "height": "235"
+    }
+  },
+  "Arrow-0": {
+    "Arrow-0-splash-0": {
+      "x": "242",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-0-splash-1": {
+      "x": "482",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-0-splash-2": {
+      "x": "722",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-0-splash-3": {
+      "x": "962",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-0-splash-5": {
+      "x": "710",
+      "y": "722",
+      "width": "234",
+      "height": "234"
+    },
+    "Arrow-0-splash-6": {
+      "x": "946",
+      "y": "722",
+      "width": "234",
+      "height": "234"
+    },
+    "Arrow-0-splash-7": {
+      "x": "1182",
+      "y": "722",
+      "width": "234",
+      "height": "234"
+    },
+    "Arrow-0-splash-8": {
+      "x": "1418",
+      "y": "722",
+      "width": "234",
+      "height": "234"
+    },
+    "Arrow-0-splash-9": {
+      "x": "1654",
+      "y": "722",
+      "width": "234",
+      "height": "234"
+    }
+  },
+  "Arrow-3": {
+    "Arrow-3-splash-0": {
+      "x": "1202",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-3-splash-1": {
+      "x": "1442",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-3-splash-2": {
+      "x": "1682",
+      "y": "242",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-3-splash-3": {
+      "x": "2",
+      "y": "482",
+      "width": "238",
+      "height": "238"
+    },
+    "Arrow-3-splash-5": {
+      "x": "2",
+      "y": "959",
+      "width": "230",
+      "height": "229"
+    },
+    "Arrow-3-splash-6": {
+      "x": "234",
+      "y": "959",
+      "width": "230",
+      "height": "229"
+    },
+    "Arrow-3-splash-7": {
+      "x": "466",
+      "y": "959",
+      "width": "230",
+      "height": "229"
+    },
+    "Arrow-3-splash-8": {
+      "x": "698",
+      "y": "959",
+      "width": "230",
+      "height": "229"
+    },
+    "Arrow-3-splash-9": {
+      "x": "930",
+      "y": "959",
+      "width": "230",
+      "height": "229"
+    }
+  }
+}

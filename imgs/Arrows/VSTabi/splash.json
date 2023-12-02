@@ -1,0 +1,170 @@
+{
+  "Arrow-1": {
+    "Arrow-1-splash-0": {
+      "name": "Arrow-1-splash-0",
+      "x": 25,
+      "y": 25,
+      "width": 194,
+      "height": 186,
+      "frameX": -47,
+      "frameY": -57,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-1-splash-1": {
+      "name": "Arrow-1-splash-1",
+      "x": 244,
+      "y": 25,
+      "width": 220,
+      "height": 218,
+      "frameX": -31,
+      "frameY": -34,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-1-splash-2": {
+      "name": "Arrow-1-splash-2",
+      "x": 489,
+      "y": 25,
+      "width": 284,
+      "height": 293,
+      "frameX": -7,
+      "frameY": -2,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-1-splash-3": {
+      "name": "Arrow-1-splash-3",
+      "x": 25,
+      "y": 343,
+      "width": 291,
+      "height": 303
+    }
+  },
+  "Arrow-2": {
+    "Arrow-2-splash-0": {
+      "name": "Arrow-2-splash-0",
+      "x": 25,
+      "y": 25,
+      "width": 194,
+      "height": 186,
+      "frameX": -47,
+      "frameY": -57,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-2-splash-1": {
+      "name": "Arrow-2-splash-1",
+      "x": 244,
+      "y": 25,
+      "width": 220,
+      "height": 218,
+      "frameX": -31,
+      "frameY": -34,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-2-splash-2": {
+      "name": "Arrow-2-splash-2",
+      "x": 489,
+      "y": 25,
+      "width": 284,
+      "height": 293,
+      "frameX": -7,
+      "frameY": -2,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-2-splash-3": {
+      "name": "Arrow-2-splash-3",
+      "x": 25,
+      "y": 343,
+      "width": 291,
+      "height": 303
+    }
+  },
+  "Arrow-0": {
+    "Arrow-0-splash-0": {
+      "name": "Arrow-0-splash-0",
+      "x": 25,
+      "y": 25,
+      "width": 194,
+      "height": 186,
+      "frameX": -47,
+      "frameY": -57,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-0-splash-1": {
+      "name": "Arrow-0-splash-1",
+      "x": 244,
+      "y": 25,
+      "width": 220,
+      "height": 218,
+      "frameX": -31,
+      "frameY": -34,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-0-splash-2": {
+      "name": "Arrow-0-splash-2",
+      "x": 489,
+      "y": 25,
+      "width": 284,
+      "height": 293,
+      "frameX": -7,
+      "frameY": -2,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-0-splash-3": {
+      "name": "Arrow-0-splash-3",
+      "x": 25,
+      "y": 343,
+      "width": 291,
+      "height": 303
+    }
+  },
+  "Arrow-3": {
+    "Arrow-3-splash-0": {
+      "name": "Arrow-3-splash-0",
+      "x": 25,
+      "y": 25,
+      "width": 194,
+      "height": 186,
+      "frameX": -47,
+      "frameY": -57,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-3-splash-1": {
+      "name": "Arrow-3-splash-1",
+      "x": 244,
+      "y": 25,
+      "width": 220,
+      "height": 218,
+      "frameX": -31,
+      "frameY": -34,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-3-splash-2": {
+      "name": "Arrow-3-splash-2",
+      "x": 489,
+      "y": 25,
+      "width": 284,
+      "height": 293,
+      "frameX": -7,
+      "frameY": -2,
+      "frameWidth": 291,
+      "frameHeight": 303
+    },
+    "Arrow-3-splash-3": {
+      "name": "Arrow-3-splash-3",
+      "x": 25,
+      "y": 343,
+      "width": 291,
+      "height": 303
+    }
+  }
+}

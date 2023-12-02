@@ -1,0 +1,130 @@
+{
+    "Arrow-0": {
+      "Arrow-0-splash-0": {
+        "x": 0,
+        "y": 0,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-0-splash-1": {
+        "x": 0,
+        "y": 210,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-0-splash-2": {
+        "x": 0,
+        "y": 420,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-0-splash-3": {
+        "x": 0,
+        "y": 630,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-0-splash-4": {
+        "x": 0,
+        "y": 840,
+        "width": 210,
+        "height": 210
+      }
+    },
+    "Arrow-1": {
+      "Arrow-1-splash-0": {
+        "x": 210,
+        "y": 0,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-1-splash-1": {
+        "x": 210,
+        "y": 210,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-1-splash-2": {
+        "x": 210,
+        "y": 420,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-1-splash-3": {
+        "x": 210,
+        "y": 630,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-1-splash-4": {
+        "x": 210,
+        "y": 840,
+        "width": 210,
+        "height": 210
+      }
+    },
+    "Arrow-2": {
+      "Arrow-2-splash-0": {
+        "x": 420,
+        "y": 0,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-2-splash-1": {
+        "x": 420,
+        "y": 210,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-2-splash-2": {
+        "x": 420,
+        "y": 420,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-2-splash-3": {
+        "x": 420,
+        "y": 630,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-2-splash-4": {
+        "x": 420,
+        "y": 840,
+        "width": 210,
+        "height": 210
+      }
+    },
+    "Arrow-3": {
+      "Arrow-3-splash-0": {
+        "x": 630,
+        "y": 0,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-3-splash-1": {
+        "x": 630,
+        "y": 210,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-3-splash-2": {
+        "x": 630,
+        "y": 420,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-3-splash-3": {
+        "x": 630,
+        "y": 630,
+        "width": 210,
+        "height": 210
+      },
+      "Arrow-3-splash-4": {
+        "x": 630,
+        "y": 840,
+        "width": 210,
+        "height": 210
+      }
+    }
+  }

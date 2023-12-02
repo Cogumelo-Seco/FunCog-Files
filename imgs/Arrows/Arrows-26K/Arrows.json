@@ -1,0 +1,2538 @@
+{
+  "Arrow-0": {
+    "Arrow-0": {
+      "name": "arrowFOLDLEFT0000",
+      "x": 477,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-0-note": {
+      "name": "magenta0000",
+      "x": 3747,
+      "y": 1142,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-0-press-0": {
+      "name": "magenta confirm0000",
+      "x": 3895,
+      "y": 406,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.75,
+      "pivotY": 177.6
+    },
+    "Arrow-0-press-1": {
+      "name": "magenta confirm0001",
+      "x": 0,
+      "y": 645,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-0-press-2": {
+      "name": "magenta confirm0002",
+      "x": 201,
+      "y": 645,
+      "width": 179,
+      "height": 204,
+      "frameX": -13,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-0-hold-end": {
+      "name": "magenta hold end0000",
+      "x": 2586,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-0-hold-piece": {
+      "name": "magenta hold piece0000",
+      "x": 3964,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-0-press-0-no": {
+      "name": "magenta press0000",
+      "x": 1122,
+      "y": 1562,
+      "width": 113,
+      "height": 136,
+      "pivotX": -18.3,
+      "pivotY": -7.45,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-0-press-1-no": {
+      "name": "magenta press0001",
+      "x": 1122,
+      "y": 1562,
+      "width": 113,
+      "height": 136,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-0-press-2-no": {
+      "name": "magenta press0002",
+      "x": 1238,
+      "y": 1562,
+      "width": 122,
+      "height": 146
+    }
+  },
+  "Arrow-1": {
+    "Arrow-1": {
+      "name": "arrowFOLDLEFT0000",
+      "x": 477,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-1-note": {
+      "name": "chocolate0000",
+      "x": 3015,
+      "y": 1142,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-1-press-0": {
+      "name": "chocolate confirm0000",
+      "x": 0,
+      "y": 406,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.75,
+      "pivotY": 177.6
+    },
+    "Arrow-1-press-1": {
+      "name": "chocolate confirm0001",
+      "x": 201,
+      "y": 406,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-1-press-2": {
+      "name": "chocolate confirm0002",
+      "x": 402,
+      "y": 406,
+      "width": 179,
+      "height": 204,
+      "frameX": -7,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-1-hold-end": {
+      "name": "chocolate hold end0000",
+      "x": 2321,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-1-hold-piece": {
+      "name": "chocolate hold piece0000",
+      "x": 3699,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-1-press-0-no": {
+      "name": "chocolate press0000",
+      "x": 3463,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "pivotX": -18.3,
+      "pivotY": -7.45,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-1-press-1-no": {
+      "name": "chocolate press0001",
+      "x": 3463,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-1-press-2-no":  {
+      "name": "chocolate press0002",
+      "x": 3579,
+      "y": 1392,
+      "width": 122,
+      "height": 146
+    }
+  },
+  "Arrow-2": {
+    "Arrow-2": {
+      "name": "arrowFOLDLEFT0000",
+      "x": 477,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-2-note": {
+      "name": "amber0000",
+      "x": 2117,
+      "y": 1142,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-2-press-0": {
+      "name": "amber confirm0000",
+      "x": 689,
+      "y": 170,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.8,
+      "pivotY": 177.6
+    },
+    "Arrow-2-press-1": {
+      "name": "amber confirm0001",
+      "x": 890,
+      "y": 170,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-2-press-2":  {
+      "name": "amber confirm0002",
+      "x": 1091,
+      "y": 170,
+      "width": 179,
+      "height": 204,
+      "frameX": -13,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-2-hold-end": {
+      "name": "amber hold end0000",
+      "x": 2003,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-2-hold-piece": {
+      "name": "amber hold piece0000",
+      "x": 3381,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-2-press-0-no": {
+      "name": "amber press0000",
+      "x": 2050,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "pivotX": -18.3,
+      "pivotY": -7.45,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-2-press-1-no": {
+      "name": "amber press0001",
+      "x": 2050,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-2-press-2-no": {
+      "name": "amber press0002",
+      "x": 2166,
+      "y": 1392,
+      "width": 122,
+      "height": 146
+    }
+  },
+  "Arrow-3": {
+    "Arrow-3": {
+      "name": "Arrow-0",
+      "x": 729,
+      "y": 0,
+      "width": 153,
+      "height": 157,
+      "pivotX": 76.75,
+      "pivotY": 78.25
+    },
+    "Arrow-3-note": {
+      "name": "Arrow-0-note",
+      "x": 486,
+      "y": 1392,
+      "width": 154,
+      "height": 157,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-3-hold-end": {
+      "name": "Arrow-0-hold-end",
+      "x": 2851,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-3-hold-piece": {
+      "name": "Arrow-0-hold-piece",
+      "x": 159,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-3-press-0": {
+      "name": "Arrow-0-press-0",
+      "x": 3269,
+      "y": 406,
+      "width": 200,
+      "height": 205,
+      "pivotX": 24.05,
+      "pivotY": 23,
+      "frameX": -7,
+      "frameY": -3,
+      "frameWidth": 217,
+      "frameHeight": 220
+    },
+    "Arrow-3-press-1": {
+      "name": "Arrow-0-press-1",
+      "x": 3472,
+      "y": 406,
+      "width": 200,
+      "height": 204,
+      "frameX": -7,
+      "frameY": -3,
+      "frameWidth": 217,
+      "frameHeight": 220
+    },
+    "Arrow-3-press-2": {
+      "name": "Arrow-0-press-2",
+      "x": 3675,
+      "y": 406,
+      "width": 217,
+      "height": 220
+    },
+    "Arrow-3-press-0-no": {
+      "name": "Arrow-0-press-0-no",
+      "x": 830,
+      "y": 1562,
+      "width": 140,
+      "height": 142,
+      "pivotX": 0,
+      "pivotY": 0,
+      "frameX": -3,
+      "frameY": -3,
+      "frameWidth": 146,
+      "frameHeight": 149
+    },
+    "Arrow-3-press-1-no": {
+      "name": "Arrow-0-press-1-no",
+      "x": 830,
+      "y": 1562,
+      "width": 140,
+      "height": 142,
+      "frameX": -3,
+      "frameY": -3,
+      "frameWidth": 146,
+      "frameHeight": 149
+    },
+    "Arrow-3-press-2-no": {
+      "name": "Arrow-0-press-2-no",
+      "x": 973,
+      "y": 1562,
+      "width": 146,
+      "height": 149
+    }
+  },
+  "Arrow-4": {
+    "Arrow-4": {
+      "name": "Arrow-1",
+      "x": 317,
+      "y": 0,
+      "width": 157,
+      "height": 153,
+      "pivotX": 78.3,
+      "pivotY": 76.8
+    },
+    "Arrow-4-note": {
+      "name": "Arrow-1-note",
+      "x": 2403,
+      "y": 1142,
+      "width": 157,
+      "height": 154,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-4-hold-end": {
+      "name": "Arrow-1-hold-end",
+      "x": 2109,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-4-hold-piece": {
+      "name": "Arrow-1-hold-piece",
+      "x": 3487,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-4-press-0": {
+      "name": "Arrow-1-press-0",
+      "x": 2563,
+      "y": 406,
+      "width": 238,
+      "height": 235,
+      "pivotX": 31.15,
+      "pivotY": 37.3
+    },
+    "Arrow-4-press-1": {
+      "name": "Arrow-1-press-1",
+      "x": 2804,
+      "y": 406,
+      "width": 238,
+      "height": 235
+    },
+    "Arrow-4-press-2": {
+      "name": "Arrow-1-press-2",
+      "x": 3045,
+      "y": 406,
+      "width": 221,
+      "height": 217,
+      "frameX": -8,
+      "frameY": -10,
+      "frameWidth": 238,
+      "frameHeight": 235
+    },
+    "Arrow-4-press-0-no": {
+      "name": "Arrow-1-press-0-no",
+      "x": 533,
+      "y": 1562,
+      "width": 142,
+      "height": 140,
+      "pivotX": 0,
+      "pivotY": 0,
+      "frameX": -4,
+      "frameY": -2,
+      "frameWidth": 149,
+      "frameHeight": 146
+    },
+    "Arrow-4-press-1-no": {
+      "name": "Arrow-1-press-1-no",
+      "x": 533,
+      "y": 1562,
+      "width": 142,
+      "height": 140,
+      "frameX": -4,
+      "frameY": -2,
+      "frameWidth": 149,
+      "frameHeight": 146
+    },
+    "Arrow-4-press-2-no": {
+      "name": "Arrow-1-press-2-no",
+      "x": 678,
+      "y": 1562,
+      "width": 149,
+      "height": 146
+    }
+  },
+  "Arrow-5": {
+    "Arrow-5": {
+      "name": "Arrow-2",
+      "x": 1843,
+      "y": 0,
+      "width": 157,
+      "height": 153,
+      "pivotX": 78.25,
+      "pivotY": 76.75
+    },
+    "Arrow-5-note": {
+      "name": "Arrow-2-note",
+      "x": 3587,
+      "y": 1142,
+      "width": 157,
+      "height": 154,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-5-hold-end": {
+      "name": "Arrow-2-hold-end",
+      "x": 2533,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-5-hold-piece": {
+      "name": "Arrow-2-hold-piece",
+      "x": 3911,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-5-press-0": {
+      "name": "Arrow-2-press-0",
+      "x": 3322,
+      "y": 895,
+      "width": 236,
+      "height": 232,
+      "pivotX": 35,
+      "pivotY": 34.95
+    },
+    "Arrow-5-press-1": {
+      "name": "Arrow-2-press-1",
+      "x": 3561,
+      "y": 895,
+      "width": 236,
+      "height": 232
+    },
+    "Arrow-5-press-2": {
+      "name": "Arrow-2-press-2",
+      "x": 3800,
+      "y": 895,
+      "width": 214,
+      "height": 211,
+      "frameX": -11,
+      "frameY": -10,
+      "frameWidth": 236,
+      "frameHeight": 232
+    },
+    "Arrow-5-press-0-no": {
+      "name": "Arrow-2-press-0-no",
+      "x": 293,
+      "y": 1730,
+      "width": 144,
+      "height": 141,
+      "pivotX": 0,
+      "pivotY": 0,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 153,
+      "frameHeight": 150
+    },
+    "Arrow-5-press-1-no": {
+      "name": "Arrow-2-press-1-no",
+      "x": 293,
+      "y": 1730,
+      "width": 144,
+      "height": 141,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 153,
+      "frameHeight": 150
+    },
+    "Arrow-5-press-2-no": {
+      "name": "Arrow-2-press-2-no",
+      "x": 440,
+      "y": 1730,
+      "width": 153,
+      "height": 150
+    }
+  },
+  "Arrow-6": {
+    "Arrow-6": {
+      "name": "Arrow-3",
+      "x": 1036,
+      "y": 0,
+      "width": 153,
+      "height": 157,
+      "pivotX": 76.8,
+      "pivotY": 78.25
+    },
+    "Arrow-6-note": {
+      "name": "Arrow-3-note",
+      "x": 812,
+      "y": 1392,
+      "width": 154,
+      "height": 157,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-6-hold-end": {
+      "name": "Arrow-3-hold-end",
+      "x": 2957,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-6-hold-piece": {
+      "name": "Arrow-3-hold-piece",
+      "x": 265,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-6-press-0": {
+      "name": "Arrow-3-press-0",
+      "x": 0,
+      "y": 895,
+      "width": 223,
+      "height": 226,
+      "pivotX": 30.9,
+      "pivotY": 31,
+      "frameX": -1,
+      "frameY": -3,
+      "frameWidth": 226,
+      "frameHeight": 230
+    },
+    "Arrow-6-press-1": {
+      "name": "Arrow-3-press-1",
+      "x": 226,
+      "y": 895,
+      "width": 223,
+      "height": 226,
+      "frameX": -1,
+      "frameY": -3,
+      "frameWidth": 226,
+      "frameHeight": 230
+    },
+    "Arrow-6-press-2": {
+      "name": "Arrow-3-press-2",
+      "x": 452,
+      "y": 895,
+      "width": 226,
+      "height": 230
+    },
+    "Arrow-6-press-0-no": {
+      "name": "Arrow-3-press-0-no",
+      "x": 2949,
+      "y": 1562,
+      "width": 138,
+      "height": 141,
+      "pivotX": 0,
+      "pivotY": 0,
+      "frameX": -3,
+      "frameY": -7,
+      "frameWidth": 148,
+      "frameHeight": 151
+    },
+    "Arrow-6-press-1-no": {
+      "name": "Arrow-3-press-1-no",
+      "x": 2949,
+      "y": 1562,
+      "width": 138,
+      "height": 141,
+      "frameX": -3,
+      "frameY": -7,
+      "frameWidth": 148,
+      "frameHeight": 151
+    },
+    "Arrow-6-press-2-no": {
+      "name": "Arrow-3-press-2-no",
+      "x": 3090,
+      "y": 1562,
+      "width": 148,
+      "height": 151
+    }
+  },
+  "Arrow-7": {
+    "Arrow-7": {
+      "name": "arrowSPACE0000",
+      "x": 1192,
+      "y": 0,
+      "width": 166,
+      "height": 167,
+      "pivotX": 83.3,
+      "pivotY": 83.2
+    },
+    "Arrow-7-note": {
+      "name": "white0000",
+      "x": 1724,
+      "y": 1392,
+      "width": 166,
+      "height": 167,
+      "pivotX": 81.4,
+      "pivotY": 83.25
+    },
+    "Arrow-7-press-0": {
+      "name": "white confirm0000",
+      "x": 706,
+      "y": 1142,
+      "width": 246,
+      "height": 247,
+      "pivotX": 40.7,
+      "pivotY": 41.45
+    },
+    "Arrow-7-press-1": {
+      "name": "white confirm0001",
+      "x": 955,
+      "y": 1142,
+      "width": 246,
+      "height": 247
+    },
+    "Arrow-7-press-2": {
+      "name": "white confirm0002",
+      "x": 1204,
+      "y": 1142,
+      "width": 224,
+      "height": 224,
+      "frameX": -11,
+      "frameY": -12,
+      "frameWidth": 246,
+      "frameHeight": 247
+    },
+    "Arrow-7-hold-end": {
+      "name": "white hold end0000",
+      "x": 3275,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-7-hold-piece": {
+      "name": "white hold piece0000",
+      "x": 583,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-7-press-0-no": {
+      "name": "white press0000",
+      "x": 899,
+      "y": 1730,
+      "width": 155,
+      "height": 155,
+      "pivotX": 10.4,
+      "pivotY": 4.3,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 166,
+      "frameHeight": 167
+    },
+    "Arrow-7-press-1-no": {
+      "name": "white press0001",
+      "x": 899,
+      "y": 1730,
+      "width": 155,
+      "height": 155,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 166,
+      "frameHeight": 167
+    },
+    "Arrow-7-press-2-no": {
+      "name": "white press0002",
+      "x": 1057,
+      "y": 1730,
+      "width": 166,
+      "height": 167
+    }
+  },
+  "Arrow-8": {
+    "Arrow-8": {
+      "name": "arrowSTAR0000",
+      "x": 1513,
+      "y": 0,
+      "width": 161,
+      "height": 154,
+      "pivotX": 81.1,
+      "pivotY": 80.35
+    },
+    "Arrow-8-note": {
+      "name": "celeste0000",
+      "x": 2852,
+      "y": 1142,
+      "width": 160,
+      "height": 154,
+      "pivotX": 118.85,
+      "pivotY": 68.1
+    },
+    "Arrow-8-press-0": {
+      "name": "celeste confirm0000",
+      "x": 3261,
+      "y": 170,
+      "width": 240,
+      "height": 232,
+      "pivotX": 207.35,
+      "pivotY": 175.5
+    },
+    "Arrow-8-press-1": {
+      "name": "celeste confirm0001",
+      "x": 3504,
+      "y": 170,
+      "width": 240,
+      "height": 232
+    },
+    "Arrow-8-press-2": {
+      "name": "celeste confirm0002",
+      "x": 3747,
+      "y": 170,
+      "width": 219,
+      "height": 211,
+      "frameX": -14,
+      "frameY": -10,
+      "frameWidth": 240,
+      "frameHeight": 232
+    },
+    "Arrow-8-hold-end": {
+      "name": "celeste hold end0000",
+      "x": 2268,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-8-hold-piece": {
+      "name": "celeste hold piece0000",
+      "x": 3646,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-8-press-0-no": {
+      "name": "celeste press0000",
+      "x": 3146,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "pivotX": -0.2,
+      "pivotY": -3.75,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-8-press-1-no": {
+      "name": "celeste press0001",
+      "x": 3146,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-8-press-2-no": {
+      "name": "celeste press0002",
+      "x": 3299,
+      "y": 1392,
+      "width": 161,
+      "height": 155
+    }
+  },
+  "Arrow-9": {
+    "Arrow-9": {
+      "name": "arrowSPACE0000",
+      "x": 1192,
+      "y": 0,
+      "width": 166,
+      "height": 167,
+      "pivotX": 83.3,
+      "pivotY": 83.2
+    },
+    "Arrow-9-note": {
+      "name": "mint0000",
+      "x": 0,
+      "y": 1392,
+      "width": 166,
+      "height": 167,
+      "pivotX": 81.4,
+      "pivotY": 83.25
+    },
+    "Arrow-9-press-0": {
+      "name": "mint confirm0000",
+      "x": 1108,
+      "y": 645,
+      "width": 246,
+      "height": 247,
+      "pivotX": 40.7,
+      "pivotY": 41.45
+    },
+    "Arrow-9-press-1": {
+      "name": "mint confirm0001",
+      "x": 1357,
+      "y": 645,
+      "width": 246,
+      "height": 247
+    },
+    "Arrow-9-press-2": {
+      "name": "mint confirm0002",
+      "x": 1606,
+      "y": 645,
+      "width": 224,
+      "height": 224,
+      "frameX": -11,
+      "frameY": -12,
+      "frameWidth": 246,
+      "frameHeight": 247
+    },
+    "Arrow-9-hold-end": {
+      "name": "mint hold end 0000",
+      "x": 2692,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-9-hold-piece": {
+      "name": "mint hold piece0000",
+      "x": 0,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-9-press-0-no": {
+      "name": "mint press0000",
+      "x": 1688,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "pivotX": 10.4,
+      "pivotY": 4.3,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-9-press-1-no": {
+      "name": "mint press0001",
+      "x": 1688,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-9-press-2-no": {
+      "name": "mint press0002",
+      "x": 1846,
+      "y": 1562,
+      "width": 164,
+      "height": 165
+    }
+  },
+  "Arrow-10": {
+    "Arrow-10": {
+      "name": "arrowSQUARE0000",
+      "x": 1361,
+      "y": 0,
+      "width": 149,
+      "height": 149,
+      "pivotX": 72.85,
+      "pivotY": 71.25
+    },
+    "Arrow-10-note": {
+      "name": "tuscan0000",
+      "x": 1412,
+      "y": 1392,
+      "width": 149,
+      "height": 149,
+      "pivotX": 1.6,
+      "pivotY": 4
+    },
+    "Arrow-10-press-0": {
+      "name": "tuscan confirm0000",
+      "x": 2650,
+      "y": 895,
+      "width": 228,
+      "height": 229,
+      "pivotX": 23.35,
+      "pivotY": 26.05,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 230,
+      "frameHeight": 229
+    },
+    "Arrow-10-press-1": {
+      "name": "tuscan confirm0001",
+      "x": 2881,
+      "y": 895,
+      "width": 228,
+      "height": 229,
+      "frameX": -2,
+      "frameY": 0,
+      "frameWidth": 230,
+      "frameHeight": 229
+    },
+    "Arrow-10-press-2": {
+      "name": "tuscan confirm0002",
+      "x": 3112,
+      "y": 895,
+      "width": 207,
+      "height": 207,
+      "frameX": -10,
+      "frameY": -10,
+      "frameWidth": 230,
+      "frameHeight": 229
+    },
+    "Arrow-10-hold-end": {
+      "name": "tuscan hold end0000",
+      "x": 3169,
+      "y": 0,
+      "width": 50,
+      "height": 63,
+      "pivotX": 25,
+      "pivotY": 31.85
+    },
+    "Arrow-10-hold-piece": {
+      "name": "tuscan hold piece0000",
+      "x": 477,
+      "y": 170,
+      "width": 50,
+      "height": 43,
+      "pivotX": 25,
+      "pivotY": 21.75
+    },
+    "Arrow-10-press-0-no": {
+      "name": "tuscan press0000",
+      "x": 0,
+      "y": 1730,
+      "width": 138,
+      "height": 138,
+      "pivotX": 1.6,
+      "pivotY": 4,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 149,
+      "frameHeight": 149
+    },
+    "Arrow-10-press-1-no": {
+      "name": "tuscan press0001",
+      "x": 0,
+      "y": 1730,
+      "width": 138,
+      "height": 138,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 149,
+      "frameHeight": 149
+    },
+    "Arrow-10-press-2-no": {
+      "name": "tuscan press0002",
+      "x": 141,
+      "y": 1730,
+      "width": 149,
+      "height": 149
+    }
+  },
+  "Arrow-11": {
+    "Arrow-11": {
+      "name": "arrowCIRCLE0000",
+      "x": 0,
+      "y": 0,
+      "width": 160,
+      "height": 163,
+      "pivotX": 76.4,
+      "pivotY": 80.15
+    },
+    "Arrow-11-note": {
+      "name": "pacificblue0000",
+      "x": 169,
+      "y": 1392,
+      "width": 160,
+      "height": 162,
+      "pivotX": 4.5,
+      "pivotY": 4.5
+    },
+    "Arrow-11-press-0": {
+      "name": "pacificblue confirm0000",
+      "x": 1833,
+      "y": 645,
+      "width": 240,
+      "height": 242,
+      "pivotX": 34,
+      "pivotY": 34.2,
+      "frameX": 0,
+      "frameY": -2,
+      "frameWidth": 241,
+      "frameHeight": 244
+    },
+    "Arrow-11-press-1": {
+      "name": "pacificblue confirm0001",
+      "x": 2076,
+      "y": 645,
+      "width": 240,
+      "height": 242,
+      "frameX": -1,
+      "frameY": 0,
+      "frameWidth": 241,
+      "frameHeight": 244
+    },
+    "Arrow-11-press-2": {
+      "name": "pacificblue confirm0002",
+      "x": 2319,
+      "y": 645,
+      "width": 218,
+      "height": 219,
+      "frameX": -12,
+      "frameY": -12,
+      "frameWidth": 241,
+      "frameHeight": 244
+    },
+    "Arrow-11-hold-end": {
+      "name": "pacificblue hold end0000",
+      "x": 2745,
+      "y": 0,
+      "width": 50,
+      "height": 63,
+      "pivotX": 25,
+      "pivotY": 31.85
+    },
+    "Arrow-11-hold-piece": {
+      "name": "pacificblue hold piece0000",
+      "x": 53,
+      "y": 170,
+      "width": 50,
+      "height": 43,
+      "pivotX": 24.95,
+      "pivotY": 21.75
+    },
+    "Arrow-11-press-0-no": {
+      "name": "pacificblue press0000",
+      "x": 2013,
+      "y": 1562,
+      "width": 149,
+      "height": 150,
+      "pivotX": 5.25,
+      "pivotY": 6.75,
+      "frameX": -6,
+      "frameY": -5,
+      "frameWidth": 160,
+      "frameHeight": 162
+    },
+    "Arrow-11-press-1-no": {
+      "name": "pacificblue press0001",
+      "x": 2013,
+      "y": 1562,
+      "width": 149,
+      "height": 150,
+      "frameX": -6,
+      "frameY": -5,
+      "frameWidth": 160,
+      "frameHeight": 162
+    },
+    "Arrow-11-press-2-no": {
+      "name": "pacificblue press0002",
+      "x": 2165,
+      "y": 1562,
+      "width": 160,
+      "height": 162
+    }
+  },
+  "Arrow-12": {
+    "Arrow-12": {
+      "name": "arrowPLAY0000",
+      "x": 885,
+      "y": 0,
+      "width": 148,
+      "height": 163,
+      "pivotX": 72.7,
+      "pivotY": 82.45
+    },
+    "Arrow-12-note": {
+      "name": "seagreen0000",
+      "x": 969,
+      "y": 1392,
+      "width": 148,
+      "height": 163,
+      "pivotX": 1.7,
+      "pivotY": 4.5
+    },
+    "Arrow-12-press-0": {
+      "name": "seagreen confirm0000",
+      "x": 681,
+      "y": 895,
+      "width": 227,
+      "height": 244,
+      "pivotX": 25.5,
+      "pivotY": 35.55,
+      "frameX": 0,
+      "frameY": -1,
+      "frameWidth": 227,
+      "frameHeight": 245
+    },
+    "Arrow-12-press-1": {
+      "name": "seagreen confirm0001",
+      "x": 911,
+      "y": 895,
+      "width": 227,
+      "height": 243,
+      "frameX": 0,
+      "frameY": 0,
+      "frameWidth": 227,
+      "frameHeight": 245
+    },
+    "Arrow-12-press-2": {
+      "name": "seagreen confirm0002",
+      "x": 1141,
+      "y": 895,
+      "width": 206,
+      "height": 221,
+      "frameX": -11,
+      "frameY": -11,
+      "frameWidth": 227,
+      "frameHeight": 245
+    },
+    "Arrow-12-hold-end": {
+      "name": "seagreen hold end0000",
+      "x": 3010,
+      "y": 0,
+      "width": 50,
+      "height": 63,
+      "pivotX": 25,
+      "pivotY": 31.85
+    },
+    "Arrow-12-hold-piece": {
+      "name": "seagreen hold piece0000",
+      "x": 318,
+      "y": 170,
+      "width": 50,
+      "height": 43,
+      "pivotX": 24.95,
+      "pivotY": 21.75
+    },
+    "Arrow-12-press-0-no": {
+      "name": "seagreen press0000",
+      "x": 3241,
+      "y": 1562,
+      "width": 137,
+      "height": 152,
+      "pivotX": -0.35,
+      "pivotY": 4.5,
+      "frameX": -4,
+      "frameY": -4,
+      "frameWidth": 149,
+      "frameHeight": 163
+    },
+    "Arrow-12-press-1-no": {
+      "name": "seagreen press0001",
+      "x": 3241,
+      "y": 1562,
+      "width": 137,
+      "height": 152,
+      "frameX": -4,
+      "frameY": -4,
+      "frameWidth": 149,
+      "frameHeight": 163
+    },
+    "Arrow-12-press-2-no": {
+      "name": "seagreen press0002",
+      "x": 3381,
+      "y": 1562,
+      "width": 149,
+      "height": 163
+    }
+  },
+  "Arrow-13": {
+    "Arrow-13": {
+      "name": "arrowTRIANGLE0000",
+      "x": 1677,
+      "y": 0,
+      "width": 163,
+      "height": 148,
+      "pivotX": 83.95,
+      "pivotY": 87.4
+    },
+    "Arrow-13-note": {
+      "name": "shadow0000",
+      "x": 1120,
+      "y": 1392,
+      "width": 163,
+      "height": 148,
+      "pivotX": 4.5,
+      "pivotY": 4.5
+    },
+    "Arrow-13-press-0": {
+      "name": "shadow confirm0000",
+      "x": 1350,
+      "y": 895,
+      "width": 244,
+      "height": 227,
+      "pivotX": 37.6,
+      "pivotY": 28.25
+    },
+    "Arrow-13-press-1": {
+      "name": "shadow confirm0001",
+      "x": 1597,
+      "y": 895,
+      "width": 243,
+      "height": 226,
+      "frameX": 0,
+      "frameY": -1,
+      "frameWidth": 244,
+      "frameHeight": 227
+    },
+    "Arrow-13-press-2": {
+      "name": "shadow confirm0002",
+      "x": 1843,
+      "y": 895,
+      "width": 220,
+      "height": 206,
+      "frameX": -12,
+      "frameY": -12,
+      "frameWidth": 244,
+      "frameHeight": 227
+    },
+    "Arrow-13-hold-end": {
+      "name": "shadow hold end0000",
+      "x": 3063,
+      "y": 0,
+      "width": 50,
+      "height": 63,
+      "pivotX": 25,
+      "pivotY": 31.85
+    },
+    "Arrow-13-hold-piece": {
+      "name": "shadow hold piece0000",
+      "x": 371,
+      "y": 170,
+      "width": 50,
+      "height": 43,
+      "pivotX": 24.95,
+      "pivotY": 21.75
+    },
+    "Arrow-13-press-0-no": {
+      "name": "shadow press0000",
+      "x": 3533,
+      "y": 1562,
+      "width": 152,
+      "height": 137,
+      "pivotX": 1.05,
+      "pivotY": 3.35,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 164,
+      "frameHeight": 148
+    },
+    "Arrow-13-press-1-no": {
+      "name": "shadow press0001",
+      "x": 3533,
+      "y": 1562,
+      "width": 152,
+      "height": 137,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 164,
+      "frameHeight": 148
+    },
+    "Arrow-13-press-2-no": {
+      "name": "shadow press0002",
+      "x": 3688,
+      "y": 1562,
+      "width": 164,
+      "height": 148
+    }
+  },
+  "Arrow-14": {
+    "Arrow-14": {
+      "name": "arrowCROSS0000",
+      "x": 163,
+      "y": 0,
+      "width": 151,
+      "height": 162,
+      "pivotX": 71.8,
+      "pivotY": 76.35
+    },
+    "Arrow-14-note": {
+      "name": "periwinkle0000",
+      "x": 332,
+      "y": 1392,
+      "width": 151,
+      "height": 162,
+      "pivotX": 4.5,
+      "pivotY": 4.5
+    },
+    "Arrow-14-press-0": {
+      "name": "periwinkle confirm0000",
+      "x": 2540,
+      "y": 645,
+      "width": 229,
+      "height": 241,
+      "pivotX": 29.55,
+      "pivotY": 34.45,
+      "frameX": 0,
+      "frameY": -1,
+      "frameWidth": 233,
+      "frameHeight": 242
+    },
+    "Arrow-14-press-1": {
+      "name": "periwinkle confirm0001",
+      "x": 2772,
+      "y": 645,
+      "width": 230,
+      "height": 242,
+      "frameX": -3,
+      "frameY": 0,
+      "frameWidth": 233,
+      "frameHeight": 242
+    },
+    "Arrow-14-press-2": {
+      "name": "periwinkle confirm0002",
+      "x": 3005,
+      "y": 645,
+      "width": 208,
+      "height": 219,
+      "frameX": -10,
+      "frameY": -11,
+      "frameWidth": 233,
+      "frameHeight": 242
+    },
+    "Arrow-14-hold-end": {
+      "name": "periwinkle hold end0000",
+      "x": 2798,
+      "y": 0,
+      "width": 50,
+      "height": 63,
+      "pivotX": 25,
+      "pivotY": 31.85
+    },
+    "Arrow-14-hold-piece": {
+      "name": "periwinkle hold piece0000",
+      "x": 106,
+      "y": 170,
+      "width": 50,
+      "height": 43,
+      "pivotX": 24.95,
+      "pivotY": 21.75
+    },
+    "Arrow-14-press-0-no": {
+      "name": "periwinkle press0000",
+      "x": 2328,
+      "y": 1562,
+      "width": 139,
+      "height": 150,
+      "pivotX": 9.2,
+      "pivotY": 4.5,
+      "frameX": -6,
+      "frameY": -1,
+      "frameWidth": 151,
+      "frameHeight": 162
+    },
+    "Arrow-14-press-1-no": {
+      "name": "periwinkle press0001",
+      "x": 2328,
+      "y": 1562,
+      "width": 139,
+      "height": 150,
+      "frameX": -6,
+      "frameY": -1,
+      "frameWidth": 151,
+      "frameHeight": 162
+    },
+    "Arrow-14-press-2-no": {
+      "name": "periwinkle press0002",
+      "x": 2470,
+      "y": 1562,
+      "width": 151,
+      "height": 162
+    }
+  },
+  "Arrow-15": {
+    "Arrow-15": {
+      "name": "arrowSTAR0000",
+      "x": 1513,
+      "y": 0,
+      "width": 161,
+      "height": 154,
+      "pivotX": 81.1,
+      "pivotY": 80.35
+    },
+    "Arrow-15-note": {
+      "name": "cadmiumgreen0000",
+      "x": 2563,
+      "y": 1142,
+      "width": 160,
+      "height": 154,
+      "pivotX": 122.85,
+      "pivotY": 72.1
+    },
+    "Arrow-15-press-0": {
+      "name": "cadmiumgreen confirm0000",
+      "x": 1968,
+      "y": 170,
+      "width": 241,
+      "height": 233,
+      "pivotX": 211.8,
+      "pivotY": 180
+    },
+    "Arrow-15-press-1": {
+      "name": "cadmiumgreen confirm0001",
+      "x": 2212,
+      "y": 170,
+      "width": 241,
+      "height": 233
+    },
+    "Arrow-15-press-2": {
+      "name": "cadmiumgreen confirm0002",
+      "x": 2456,
+      "y": 170,
+      "width": 218,
+      "height": 211,
+      "frameX": -14,
+      "frameY": -11,
+      "frameWidth": 241,
+      "frameHeight": 233
+    },
+    "Arrow-15-hold-end": {
+      "name": "cadmiumgreen hold end0000",
+      "x": 2162,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-15-hold-piece": {
+      "name": "cadmiumgreen hold piece0000",
+      "x": 3540,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-15-press-0-no": {
+      "name": "cadmiumgreen press0000",
+      "x": 2588,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "pivotX": -0.2,
+      "pivotY": -3.75,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-15-press-1-no": {
+      "name": "cadmiumgreen press0001",
+      "x": 2588,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-15-press-2-no": {
+      "name": "cadmiumgreen press0002",
+      "x": 2741,
+      "y": 1392,
+      "width": 161,
+      "height": 155
+    }
+  },
+  "Arrow-16": {
+    "Arrow-16": {
+      "name": "arrowSPACE0000",
+      "x": 1192,
+      "y": 0,
+      "width": 166,
+      "height": 167,
+      "pivotX": 83.3,
+      "pivotY": 83.2
+    },
+    "Arrow-16-note": {
+      "name": "marigold0000",
+      "x": 3873,
+      "y": 1142,
+      "width": 166,
+      "height": 167,
+      "pivotX": 81.4,
+      "pivotY": 83.25
+    },
+    "Arrow-16-press-0": {
+      "name": "marigold confirm0000",
+      "x": 383,
+      "y": 645,
+      "width": 246,
+      "height": 247,
+      "pivotX": 40.7,
+      "pivotY": 41.45
+    },
+    "Arrow-16-press-1": {
+      "name": "marigold confirm0001",
+      "x": 632,
+      "y": 645,
+      "width": 246,
+      "height": 247
+    },
+    "Arrow-16-press-2": {
+      "name": "marigold confirm0002",
+      "x": 881,
+      "y": 645,
+      "width": 224,
+      "height": 224,
+      "frameX": -11,
+      "frameY": -12,
+      "frameWidth": 246,
+      "frameHeight": 247
+    },
+    "Arrow-16-hold-end": {
+      "name": "marigold hold end0000",
+      "x": 2639,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-16-hold-piece": {
+      "name": "marigold hold piece0000",
+      "x": 4017,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-16-press-0-no": {
+      "name": "marigold press0000",
+      "x": 1363,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "pivotX": 10.4,
+      "pivotY": 4.3,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-16-press-1-no": {
+      "name": "marigold press0001",
+      "x": 1363,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-16-press-2-no": {
+      "name": "marigold press0002",
+      "x": 1521,
+      "y": 1562,
+      "width": 164,
+      "height": 165
+    }
+  },
+  "Arrow-17": {
+    "Arrow-17": {
+      "name": "arrowSTAR0000",
+      "x": 1513,
+      "y": 0,
+      "width": 161,
+      "height": 154,
+      "pivotX": 81.1,
+      "pivotY": 80.35
+    },
+    "Arrow-17-note": {
+      "name": "coral0000",
+      "x": 3141,
+      "y": 1142,
+      "width": 160,
+      "height": 154,
+      "pivotX": 122.85,
+      "pivotY": 72.1
+    },
+    "Arrow-17-press-0": {
+      "name": "coral confirm0000",
+      "x": 584,
+      "y": 406,
+      "width": 241,
+      "height": 233,
+      "pivotX": 211.8,
+      "pivotY": 180
+    },
+    "Arrow-17-press-1": {
+      "name": "coral confirm0001",
+      "x": 828,
+      "y": 406,
+      "width": 241,
+      "height": 233
+    },
+    "Arrow-17-press-2": {
+      "name": "coral confirm0002",
+      "x": 1072,
+      "y": 406,
+      "width": 218,
+      "height": 211,
+      "frameX": -14,
+      "frameY": -11,
+      "frameWidth": 241,
+      "frameHeight": 233
+    },
+    "Arrow-17-hold-end": {
+      "name": "coral hold end0000",
+      "x": 2374,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-17-hold-piece": {
+      "name": "coral hold piece0000",
+      "x": 3752,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-17-press-0-no": {
+      "name": "coral press0000",
+      "x": 3704,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "pivotX": -0.2,
+      "pivotY": -3.75,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-17-press-1-no": {
+      "name": "coral press0001",
+      "x": 3704,
+      "y": 1392,
+      "width": 150,
+      "height": 144,
+      "frameX": -5,
+      "frameY": -6,
+      "frameWidth": 161,
+      "frameHeight": 155
+    },
+    "Arrow-17-press-2-no": {
+      "name": "coral press0002",
+      "x": 3857,
+      "y": 1392,
+      "width": 161,
+      "height": 155
+    }
+  },
+  "Arrow-18": {
+    "Arrow-18": {
+      "name": "arrowSPACE0000",
+      "x": 1192,
+      "y": 0,
+      "width": 166,
+      "height": 167,
+      "pivotX": 83.3,
+      "pivotY": 83.2
+    },
+    "Arrow-18-note": {
+      "name": "queenblue0000",
+      "x": 643,
+      "y": 1392,
+      "width": 166,
+      "height": 167,
+      "pivotX": 81.4,
+      "pivotY": 83.25
+    },
+    "Arrow-18-press-0": {
+      "name": "queenblue confirm0000",
+      "x": 3216,
+      "y": 645,
+      "width": 246,
+      "height": 247,
+      "pivotX": 40.7,
+      "pivotY": 41.5
+    },
+    "Arrow-18-press-1": {
+      "name": "queenblue confirm0001",
+      "x": 3465,
+      "y": 645,
+      "width": 246,
+      "height": 247
+    },
+    "Arrow-18-press-2": {
+      "name": "queenblue confirm0002",
+      "x": 3714,
+      "y": 645,
+      "width": 223,
+      "height": 224,
+      "frameX": -17,
+      "frameY": -12,
+      "frameWidth": 246,
+      "frameHeight": 247
+    },
+    "Arrow-18-hold-end": {
+      "name": "queenblue hold end0000",
+      "x": 2904,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-18-hold-piece": {
+      "name": "queenblue hold piece0000",
+      "x": 212,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-18-press-0-no": {
+      "name": "queenblue press0000",
+      "x": 2624,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "pivotX": 10.4,
+      "pivotY": 4.3,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-18-press-1-no": {
+      "name": "queenblue press0001",
+      "x": 2624,
+      "y": 1562,
+      "width": 155,
+      "height": 155,
+      "frameX": -5,
+      "frameY": -4,
+      "frameWidth": 164,
+      "frameHeight": 165
+    },
+    "Arrow-18-press-2-no": {
+      "name": "queenblue press0002",
+      "x": 2782,
+      "y": 1562,
+      "width": 164,
+      "height": 165
+    }
+  },
+  "Arrow-19": {
+    "Arrow-19": {
+      "name": "Arrow-0",
+      "x": 729,
+      "y": 0,
+      "width": 153,
+      "height": 157,
+      "pivotX": 76.75,
+      "pivotY": 78.25
+    },
+    "Arrow-19-note": {
+      "name": "yellow0000",
+      "x": 1893,
+      "y": 1392,
+      "width": 154,
+      "height": 157,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-19-press-0": {
+      "name": "yel confirm0000",
+      "x": 1431,
+      "y": 1142,
+      "width": 233,
+      "height": 236,
+      "pivotX": 35.05,
+      "pivotY": 36.6
+    },
+    "Arrow-19-press-1": {
+      "name": "yel confirm0001",
+      "x": 1667,
+      "y": 1142,
+      "width": 233,
+      "height": 236
+    },
+    "Arrow-19-press-2": {
+      "name": "yel confirm0002",
+      "x": 1903,
+      "y": 1142,
+      "width": 211,
+      "height": 214,
+      "frameX": -11,
+      "frameY": -11,
+      "frameWidth": 233,
+      "frameHeight": 236
+    },
+    "Arrow-19-press-0-no": {
+      "name": "yel press0000",
+      "x": 1226,
+      "y": 1730,
+      "width": 139,
+      "height": 141,
+      "pivotX": 0.05,
+      "pivotY": 0,
+      "frameX": -4,
+      "frameY": -4,
+      "frameWidth": 148,
+      "frameHeight": 151
+    },
+    "Arrow-19-press-1-no": {
+      "name": "yel press0001",
+      "x": 1368,
+      "y": 1730,
+      "width": 148,
+      "height": 151
+    },
+    "Arrow-19-press-2-no": {
+      "name": "yel press0002",
+      "x": 1368,
+      "y": 1730,
+      "width": 148,
+      "height": 151
+    },
+    "Arrow-19-hold-end": {
+      "name": "yellow hold end0000",
+      "x": 3328,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-19-hold-piece": {
+      "name": "yellow hold piece0000",
+      "x": 636,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    }
+  },
+  "Arrow-20": {
+    "Arrow-20": {
+      "name": "Arrow-1",
+      "x": 317,
+      "y": 0,
+      "width": 157,
+      "height": 153,
+      "pivotX": 78.3,
+      "pivotY": 76.8
+    },
+    "Arrow-20-note": {
+      "name": "violet0000",
+      "x": 1564,
+      "y": 1392,
+      "width": 157,
+      "height": 154,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-20-press-0": {
+      "name": "violet confirm0000",
+      "x": 0,
+      "y": 1142,
+      "width": 238,
+      "height": 235,
+      "pivotX": 31.15,
+      "pivotY": 37.3
+    },
+    "Arrow-20-press-1": {
+      "name": "violet confirm0001",
+      "x": 241,
+      "y": 1142,
+      "width": 238,
+      "height": 235
+    },
+    "Arrow-20-press-2": {
+      "name": "violet confirm0002",
+      "x": 482,
+      "y": 1142,
+      "width": 221,
+      "height": 217,
+      "frameX": -8,
+      "frameY": -10,
+      "frameWidth": 238,
+      "frameHeight": 235
+    },
+    "Arrow-20-hold-end": {
+      "name": "violet hold end0000",
+      "x": 3222,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-20-hold-piece": {
+      "name": "violet hold piece0000",
+      "x": 530,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-20-press-0-no": {
+      "name": "violet press0000",
+      "x": 596,
+      "y": 1730,
+      "width": 144,
+      "height": 142,
+      "pivotX": 0.05,
+      "pivotY": 0.05,
+      "frameX": -4,
+      "frameY": -4,
+      "frameWidth": 153,
+      "frameHeight": 150
+    },
+    "Arrow-20-press-1-no": {
+      "name": "violet press0001",
+      "x": 596,
+      "y": 1730,
+      "width": 144,
+      "height": 142,
+      "frameX": -4,
+      "frameY": -4,
+      "frameWidth": 153,
+      "frameHeight": 150
+    },
+    "Arrow-20-press-2-no": {
+      "name": "violet press0002",
+      "x": 743,
+      "y": 1730,
+      "width": 153,
+      "height": 150
+    }
+  },
+  "Arrow-21": {
+    "Arrow-21": {
+      "name": "Arrow-2",
+      "x": 1843,
+      "y": 0,
+      "width": 157,
+      "height": 153,
+      "pivotX": 78.25,
+      "pivotY": 76.75
+    },
+    "Arrow-21-note": {
+      "name": "black0000",
+      "x": 2243,
+      "y": 1142,
+      "width": 157,
+      "height": 154,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-21-press-0": {
+      "name": "black confirm0000",
+      "x": 1273,
+      "y": 170,
+      "width": 236,
+      "height": 232,
+      "pivotX": 35,
+      "pivotY": 34.95
+    },
+    "Arrow-21-press-1": {
+      "name": "black confirm0001",
+      "x": 1512,
+      "y": 170,
+      "width": 236,
+      "height": 232
+    },
+    "Arrow-21-press-2": {
+      "name": "black confirm0002",
+      "x": 1751,
+      "y": 170,
+      "width": 214,
+      "height": 211,
+      "frameX": -11,
+      "frameY": -10,
+      "frameWidth": 236,
+      "frameHeight": 232
+    },
+    "Arrow-21-hold-end": {
+      "name": "black hold end0000",
+      "x": 2056,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-21-hold-piece": {
+      "name": "black hold piece0000",
+      "x": 3434,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-21-press-0-no": {
+      "name": "black press0000",
+      "x": 2291,
+      "y": 1392,
+      "width": 142,
+      "height": 140,
+      "pivotX": 0,
+      "pivotY": 0.05,
+      "frameX": -3,
+      "frameY": -3,
+      "frameWidth": 149,
+      "frameHeight": 146
+    },
+    "Arrow-21-press-1-no": {
+      "name": "black press0001",
+      "x": 2291,
+      "y": 1392,
+      "width": 142,
+      "height": 140,
+      "frameX": -3,
+      "frameY": -3,
+      "frameWidth": 149,
+      "frameHeight": 146
+    },
+    "Arrow-21-press-2-no": {
+      "name": "black press0002",
+      "x": 2436,
+      "y": 1392,
+      "width": 149,
+      "height": 146
+    }
+  },
+  "Arrow-22": {
+    "Arrow-22": {
+      "name": "Arrow-3",
+      "x": 1036,
+      "y": 0,
+      "width": 153,
+      "height": 157,
+      "pivotX": 76.8,
+      "pivotY": 78.25
+    },
+    "Arrow-22-note": {
+      "name": "dark0000",
+      "x": 3304,
+      "y": 1142,
+      "width": 154,
+      "height": 157,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-22-press-0": {
+      "name": "dark confirm0000",
+      "x": 1293,
+      "y": 406,
+      "width": 233,
+      "height": 236,
+      "pivotX": 33.45,
+      "pivotY": 38.3
+    },
+    "Arrow-22-press-1": {
+      "name": "dark confirm0001",
+      "x": 1529,
+      "y": 406,
+      "width": 233,
+      "height": 236
+    },
+    "Arrow-22-press-2": {
+      "name": "dark confirm0002",
+      "x": 1765,
+      "y": 406,
+      "width": 211,
+      "height": 214,
+      "frameX": -11,
+      "frameY": -11,
+      "frameWidth": 233,
+      "frameHeight": 236
+    },
+    "Arrow-22-hold-end": {
+      "name": "dark hold end0000",
+      "x": 2427,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-22-hold-piece": {
+      "name": "dark hold piece0000",
+      "x": 3805,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-22-press-0-no": {
+      "name": "dark press0000",
+      "x": 0,
+      "y": 1562,
+      "width": 138,
+      "height": 141,
+      "pivotX": 0,
+      "pivotY": 0,
+      "frameX": -3,
+      "frameY": -7,
+      "frameWidth": 148,
+      "frameHeight": 151
+    },
+    "Arrow-22-press-1-no": {
+      "name": "dark press0001",
+      "x": 0,
+      "y": 1562,
+      "width": 138,
+      "height": 141,
+      "frameX": -3,
+      "frameY": -7,
+      "frameWidth": 148,
+      "frameHeight": 151
+    },
+    "Arrow-22-press-2-no": {
+      "name": "dark press0002",
+      "x": 141,
+      "y": 1562,
+      "width": 148,
+      "height": 151
+    }
+  },
+  "Arrow-23": {
+    "Arrow-23": {
+      "name": "arrowFOLDRIGHT0000",
+      "x": 603,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-23-note": {
+      "name": "carmine0000",
+      "x": 2726,
+      "y": 1142,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-23-press-0": {
+      "name": "carmine confirm0000",
+      "x": 2677,
+      "y": 170,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.8,
+      "pivotY": 177.6
+    },
+    "Arrow-23-press-1": {
+      "name": "carmine confirm0001",
+      "x": 2878,
+      "y": 170,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-23-press-2": {
+      "name": "carmine confirm0002",
+      "x": 3079,
+      "y": 170,
+      "width": 179,
+      "height": 204,
+      "frameX": -13,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-23-hold-end": {
+      "name": "carmine hold end0000",
+      "x": 2215,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-23-hold-piece": {
+      "name": "carmine hold piece 0000",
+      "x": 3593,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-23-press-0-no": {
+      "name": "carmine press0000",
+      "x": 2905,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "pivotX": -18.4,
+      "pivotY": -7.25,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-23-press-1-no": {
+      "name": "carmine press0001",
+      "x": 2905,
+      "y": 1392,
+      "width": 113,
+      "height": 136,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-23-press-2-no": {
+      "name": "carmine press0002",
+      "x": 3021,
+      "y": 1392,
+      "width": 122,
+      "height": 146
+    }
+  },
+  "Arrow-24": {
+    "Arrow-24": {
+      "name": "arrowFOLDRIGHT0000",
+      "x": 603,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-24-note": {
+      "name": "sky0000",
+      "x": 1286,
+      "y": 1392,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-24-press-0": {
+      "name": "sky confirm0000",
+      "x": 2066,
+      "y": 895,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.8,
+      "pivotY": 177.65
+    },
+    "Arrow-24-press-1": {
+      "name": "sky confirm0001",
+      "x": 2267,
+      "y": 895,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-24-press-2": {
+      "name": "sky confirm0002",
+      "x": 2468,
+      "y": 895,
+      "width": 179,
+      "height": 204,
+      "frameX": -13,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-24-hold-end": {
+      "name": "sky hold end0000",
+      "x": 3116,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-24-hold-piece": {
+      "name": "sky hold piece0000",
+      "x": 424,
+      "y": 170,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-24-press-0-no": {
+      "name": "sky press0000",
+      "x": 3855,
+      "y": 1562,
+      "width": 113,
+      "height": 135,
+      "pivotX": -18.3,
+      "pivotY": -7.45,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-24-press-1-no": {
+      "name": "sky press0001",
+      "x": 3855,
+      "y": 1562,
+      "width": 113,
+      "height": 135,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-24-press-2-no": {
+      "name": "sky press0002",
+      "x": 3971,
+      "y": 1562,
+      "width": 122,
+      "height": 146
+    }
+  },
+  "Arrow-25": {
+    "Arrow-25": {
+      "name": "arrowFOLDRIGHT0000",
+      "x": 603,
+      "y": 0,
+      "width": 123,
+      "height": 146,
+      "pivotX": 61.1,
+      "pivotY": 74.9
+    },
+    "Arrow-25-note": {
+      "name": "darkpink0000",
+      "x": 3461,
+      "y": 1142,
+      "width": 123,
+      "height": 147,
+      "pivotX": 4,
+      "pivotY": 1.7
+    },
+    "Arrow-25-press-0": {
+      "name": "darkpink confirm0000",
+      "x": 1979,
+      "y": 406,
+      "width": 198,
+      "height": 225,
+      "pivotX": 211.8,
+      "pivotY": 177.6
+    },
+    "Arrow-25-press-1": {
+      "name": "darkpink confirm0001",
+      "x": 2180,
+      "y": 406,
+      "width": 198,
+      "height": 225
+    },
+    "Arrow-25-press-2": {
+      "name": "darkpink confirm0002",
+      "x": 2381,
+      "y": 406,
+      "width": 179,
+      "height": 204,
+      "frameX": -13,
+      "frameY": -10,
+      "frameWidth": 198,
+      "frameHeight": 225
+    },
+    "Arrow-25-hold-end": {
+      "name": "darkpink hold end0000",
+      "x": 2480,
+      "y": 0,
+      "width": 50,
+      "height": 64,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-25-hold-piece": {
+      "name": "darkpink hold piece0000",
+      "x": 3858,
+      "y": 0,
+      "width": 50,
+      "height": 44,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    "Arrow-25-press-0-no": {
+      "name": "darkpink press0000",
+      "x": 292,
+      "y": 1562,
+      "width": 113,
+      "height": 136,
+      "pivotX": -18.3,
+      "pivotY": -7.45,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-25-press-2-no": {
+      "name": "darkpink press0001",
+      "x": 292,
+      "y": 1562,
+      "width": 113,
+      "height": 136,
+      "frameX": -4,
+      "frameY": -8,
+      "frameWidth": 122,
+      "frameHeight": 146
+    },
+    "Arrow-25-press-3-no": {
+      "name": "darkpink press0002",
+      "x": 408,
+      "y": 1562,
+      "width": 122,
+      "height": 146
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "frames": [
+    {
+      "name": "StaticHypno0000",
+      "x": 20,
+      "y": 20,
+      "width": 2291,
+      "height": 1476,
+      "frameX": -9,
+      "frameY": -4,
+      "frameWidth": 2300,
+      "frameHeight": 1480
+    },
+    {
+      "name": "StaticHypno0001",
+      "x": 2331,
+      "y": 20,
+      "width": 2296,
+      "height": 1474,
+      "frameX": -2,
+      "frameY": -3,
+      "frameWidth": 2300,
+      "frameHeight": 1480
+    },
+    {
+      "name": "StaticHypno0002",
+      "x": 4647,
+      "y": 20,
+      "width": 2300,
+      "height": 1480
+    }
+  ]
+}

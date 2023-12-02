@@ -1,0 +1,290 @@
+{
+  "Arrow-0": {
+    "Arrow-0": {
+      "name": "Arrow-1",
+      "x": 0,
+      "y": 0,
+      "width": 157,
+      "height": 155
+    },
+    "Arrow-0-note": {
+      "name": "Arrow-1-note",
+      "x": 0,
+      "y": 157,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-0-no": {
+      "name": "Arrow-1-press-0-no",
+      "x": 0,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-1-no": {
+      "name": "Arrow-1-press-1-no",
+      "x": 0,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-2-no": {
+      "name": "Arrow-1-press-2-no",
+      "x": 0,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-0": {
+      "name": "Arrow-1-press-0",
+      "x": 0,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-1": {
+      "name": "Arrow-1-press-1",
+      "x": 0,
+      "y": 628,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-press-2": {
+      "name": "Arrow-1-press-2",
+      "x": 0,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-0-hold-piece": {
+      "name": "Arrow-1-hold-piece",
+      "x": 0,
+      "y": 792,
+      "width": 58,
+      "height": 60
+    },
+    "Arrow-0-hold-end": {
+      "name": "Arrow-1-hold-end",
+      "x": 0,
+      "y": 832,
+      "width": 58,
+      "height": 60
+    }
+  },
+  "Arrow-1": {
+    "Arrow-1": {
+      "name": "Arrow-1",
+      "x": 157,
+      "y": 0,
+      "width": 157,
+      "height": 155
+    },
+    "Arrow-1-note": {
+      "name": "Arrow-1-note",
+      "x": 157,
+      "y": 157,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-0-no": {
+      "name": "Arrow-1-press-0-no",
+      "x": 157,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-1-no": {
+      "name": "Arrow-1-press-1-no",
+      "x": 157,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-2-no": {
+      "name": "Arrow-1-press-2-no",
+      "x": 157,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-0": {
+      "name": "Arrow-1-press-0",
+      "x": 157,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-1": {
+      "name": "Arrow-1-press-1",
+      "x": 157,
+      "y": 628,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-press-2": {
+      "name": "Arrow-1-press-2",
+      "x": 157,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-1-hold-piece": {
+      "name": "Arrow-1-hold-piece",
+      "x": 58,
+      "y": 792,
+      "width": 58,
+      "height": 60
+    },
+    "Arrow-1-hold-end": {
+      "name": "Arrow-1-hold-end",
+      "x": 58,
+      "y": 832,
+      "width": 58,
+      "height": 60
+    }
+  },
+  "Arrow-2": {
+    "Arrow-2": {
+      "name": "Arrow-1",
+      "x": 314,
+      "y": 0,
+      "width": 157,
+      "height": 155
+    },
+    "Arrow-2-note": {
+      "name": "Arrow-1-note",
+      "x": 314,
+      "y": 157,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-0-no": {
+      "name": "Arrow-1-press-0-no",
+      "x": 314,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-1-no": {
+      "name": "Arrow-1-press-1-no",
+      "x": 314,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-2-no": {
+      "name": "Arrow-1-press-2-no",
+      "x": 314,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-0": {
+      "name": "Arrow-1-press-0",
+      "x": 314,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-1": {
+      "name": "Arrow-1-press-1",
+      "x": 314,
+      "y": 628,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-press-2": {
+      "name": "Arrow-1-press-2",
+      "x": 314,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-2-hold-piece": {
+      "name": "Arrow-1-hold-piece",
+      "x": 116,
+      "y": 792,
+      "width": 58,
+      "height": 60
+    },
+    "Arrow-2-hold-end": {
+      "name": "Arrow-1-hold-end",
+      "x": 116,
+      "y": 832,
+      "width": 58,
+      "height": 60
+    }
+  },
+  "Arrow-3": {
+    "Arrow-3": {
+      "name": "Arrow-1",
+      "x": 471,
+      "y": 0,
+      "width": 157,
+      "height": 155
+    },
+    "Arrow-3-note": {
+      "name": "Arrow-1-note",
+      "x": 471,
+      "y": 157,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-0-no": {
+      "name": "Arrow-1-press-0-no",
+      "x": 471,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-1-no": {
+      "name": "Arrow-1-press-1-no",
+      "x": 471,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-2-no": {
+      "name": "Arrow-1-press-2-no",
+      "x": 471,
+      "y": 314,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-0": {
+      "name": "Arrow-1-press-0",
+      "x": 471,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-1": {
+      "name": "Arrow-1-press-1",
+      "x": 471,
+      "y": 628,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-press-2": {
+      "name": "Arrow-1-press-2",
+      "x": 471,
+      "y": 471,
+      "width": 157,
+      "height": 157
+    },
+    "Arrow-3-hold-piece": {
+      "name": "Arrow-1-hold-piece",
+      "x": 174,
+      "y": 792,
+      "width": 58,
+      "height": 60
+    },
+    "Arrow-3-hold-end": {
+      "name": "Arrow-1-hold-end",
+      "x": 174,
+      "y": 832,
+      "width": 58,
+      "height": 60
+    }
+  }
+}
